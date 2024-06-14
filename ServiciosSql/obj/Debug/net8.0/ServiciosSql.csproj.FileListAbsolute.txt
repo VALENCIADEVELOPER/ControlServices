@@ -1,0 +1,14 @@
+C:\Users\angel\source\repos\ServiciosSql\ServiciosSql\bin\Debug\net8.0\ServiciosSql.exe
+C:\Users\angel\source\repos\ServiciosSql\ServiciosSql\bin\Debug\net8.0\ServiciosSql.deps.json
+C:\Users\angel\source\repos\ServiciosSql\ServiciosSql\bin\Debug\net8.0\ServiciosSql.runtimeconfig.json
+C:\Users\angel\source\repos\ServiciosSql\ServiciosSql\bin\Debug\net8.0\ServiciosSql.dll
+C:\Users\angel\source\repos\ServiciosSql\ServiciosSql\bin\Debug\net8.0\ServiciosSql.pdb
+C:\Users\angel\source\repos\ServiciosSql\ServiciosSql\obj\Debug\net8.0\ServiciosSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\ServiciosSql\ServiciosSql\obj\Debug\net8.0\ServiciosSql.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\ServiciosSql\ServiciosSql\obj\Debug\net8.0\ServiciosSql.AssemblyInfo.cs
+C:\Users\angel\source\repos\ServiciosSql\ServiciosSql\obj\Debug\net8.0\ServiciosSql.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\ServiciosSql\ServiciosSql\obj\Debug\net8.0\ServiciosSql.dll
+C:\Users\angel\source\repos\ServiciosSql\ServiciosSql\obj\Debug\net8.0\refint\ServiciosSql.dll
+C:\Users\angel\source\repos\ServiciosSql\ServiciosSql\obj\Debug\net8.0\ServiciosSql.pdb
+C:\Users\angel\source\repos\ServiciosSql\ServiciosSql\obj\Debug\net8.0\ServiciosSql.genruntimeconfig.cache
+C:\Users\angel\source\repos\ServiciosSql\ServiciosSql\obj\Debug\net8.0\ref\ServiciosSql.dll
